@@ -16,7 +16,7 @@ Atualmente, estou aprimorando minhas habilidades em **HTML, CSS, JavaScript e ph
 
 ### 🌐 Conecte-se comigo:
 <p align="left">
-  <a href="https:www.linkedin.com/in/luis-fernando-front-end Nome fantasia da URL target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/luis-fernando-front-end" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:luis.fba.programador057@gmail.com" target="_blank" rel="noreferrer">
