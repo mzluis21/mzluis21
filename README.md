@@ -6,8 +6,8 @@
 ---
 
 ### 🧠 Sobre mim
-Sou estudante de **Desenvolvimento de Sistemas no SENAI**, apaixonado por criar experiências digitais que unem **criatividade e funcionalidade**.  
-Atualmente, estou aprimorando minhas habilidades em **HTML, CSS, JavaScript e Java**, desenvolvendo projetos pessoais e aprimorando meu portfólio.  
+Sou  **Desenvolverdor de Sistemas no SENAI**, apaixonado por criar experiências digitais que unem **criatividade e funcionalidade**.  
+Atualmente, estou aprimorando minhas habilidades em **HTML, CSS, JavaScript e php**, desenvolvendo projetos pessoais e aprimorando meu portfólio.  
 
 🎯 **Objetivo:** evoluir constantemente como desenvolvedor e colaborar em projetos que inspirem e impactem positivamente o mundo.  
 💡 **Interesses:** tecnologia, música, arte digital, interfaces modernas e programação web.
@@ -16,10 +16,10 @@ Atualmente, estou aprimorando minhas habilidades em **HTML, CSS, JavaScript e Ja
 
 ### 🌐 Conecte-se comigo:
 <p align="left">
-  <a href="https://www.linkedin.com/in/seuusuario" target="_blank" rel="noreferrer">
+  <a href="https:www.linkedin.com/in/luis-fernando-front-end Nome fantasia da URL target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:seuemail@gmail.com" target="_blank" rel="noreferrer">
+  <a href="mailto:luis.fba.programador057@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/mzluis21" target="_blank" rel="noreferrer">
@@ -46,7 +46,11 @@ Atualmente, estou aprimorando minhas habilidades em **HTML, CSS, JavaScript e Ja
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  </a>
 </p>
+
 
 ---
 
@@ -58,16 +62,9 @@ Atualmente, estou aprimorando minhas habilidades em **HTML, CSS, JavaScript e Ja
 
 ---
 
-### 🚀 Projetos em Destaque
-- 🧩 [Sistema de Gerenciamento de Produtos](https://github.com/mzluis21/seu-projeto) — CRUD completo com login e interface intuitiva.  
-- 🎨 [WAAW Website](https://github.com/mzluis21/waaw) — site criativo com animações ScrollReveal.js e design responsivo.  
-- 🌈 [Mentally](https://github.com/mzluis21/mentally) — projeto autoral de saúde mental com foco em arte e tecnologia.  
-
----
 
 ### ✨ Curiosidades
-- 🌍 Amo unir tecnologia, arte e emoção nos meus projetos.  
-- 🎧 Produzo e remix músicas eletrônicas no tempo livre.  
+- 🌍 Amo unir tecnologia, arte e emoção nos meus projetos.    
 - 🧩 Sempre em busca de novos desafios e aprendizados.  
 
 ---
