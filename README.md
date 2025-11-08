@@ -6,7 +6,7 @@
 ---
 
 ### 🧠 Sobre mim
-Sou  **Desenvolverdor de Sistemas no SENAI**, apaixonado por criar experiências digitais que unem **criatividade e funcionalidade**.  
+Sou  **Desenvolverdor de Sistemas **, apaixonado por criar experiências digitais que unem **criatividade e funcionalidade**.  
 Atualmente, estou aprimorando minhas habilidades em **HTML, CSS, JavaScript e php**, desenvolvendo projetos pessoais e aprimorando meu portfólio.  
 
 🎯 **Objetivo:** evoluir constantemente como desenvolvedor e colaborar em projetos que inspirem e impactem positivamente o mundo.  
